@@ -1,0 +1,16 @@
+body {
+    background-color: #F1E1D9;
+}
+
+div {
+    text-align: center;
+    font-family: Georgia, serif;
+    padding: 10px;
+    font-size: .5em;
+	line-height: 1.5;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
